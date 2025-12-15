@@ -1,0 +1,5 @@
+{
+  "name": "Vautour BTC - Pi Dashboard",
+  "description": "Interface de contrôle et de monitoring pour le bot de trading 'Vautour' sur Raspberry Pi. Visualisation temps réel des métriques de panique, logs d'exécution et analyse de sentiment.",
+  "requestFramePermissions": []
+}
